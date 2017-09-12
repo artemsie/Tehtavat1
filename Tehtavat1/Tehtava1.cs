@@ -118,7 +118,7 @@ namespace Tehtavat1
             }
         }
 
-        //Tehtävä 5: Tee ohjelma, joka näyttää annetun sekuntimäärän tunteina, minuutteina ja sekunteina. Aikamääre sekuntteina kysytään käyttäjältä.
+        //Tehtävä 5: Tee ohjelma, joka näyttää annetun sekuntimäärän tunteina, minuutteina ja sekunteina. Aikamääre sekunteina kysytään käyttäjältä.
         //Arttu Siekkinen
         //Pvm: 11.09.2017
         public static void Teht5()
