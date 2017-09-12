@@ -206,7 +206,7 @@ namespace Tehtavat1
             }
         }
 
-        //Tehtävä 9: Tee ohjelma, joka kysyy käyttäjältä lukuja, kunnes hän syöttää luvun 0. Ohjelman tulee tulostaa syötettyjen lukujen summa.
+        //Tehtävä 9: Tee ohjelma, joka kysyy käyttäjältä lukuja kunnes hän syöttää luvun 0. Ohjelman tulee tulostaa syötettyjen lukujen summa.
         //Arttu Siekkinen
         //Pvm: 12.09.2017
         public static void Teht9()
